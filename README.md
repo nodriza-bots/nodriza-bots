@@ -1,16 +1,47 @@
-## Hi there 👋
+# Nodriza Bots
 
-<!--
-**nodriza-bots/nodriza-bots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido al repositorio central de **Nodriza Bots**, la colección oficial de **templates base para crear bots escalables**.
 
-Here are some ideas to get you started:
+Este repositorio contiene plantillas mínimas, limpias y reutilizables para distintos tipos de bots que forman la base de nuestras flotas. Está pensado para facilitar la creación, clonación y personalización rápida de bots para diferentes clientes y proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ¿Qué encontrarás aquí?
+
+- Código base para bots de varios tipos (mensajería, escucha de eventos, respuestas automáticas, etc.)
+- README mínimos en cada plantilla para guía rápida.
+- Estructura modular para facilitar extensiones y mantenimiento.
+- Repositorios marcados como templates para uso directo desde GitHub.
+
+---
+
+## Cómo usar estos templates
+
+1. Explorar las carpetas o repositorios de templates disponibles.
+2. Usar la función **"Use this template"** en GitHub para crear una copia en tu propia cuenta o proyecto.
+3. Clonar ese nuevo repositorio a tu entorno local.
+4. Personalizar el bot según tus necesidades específicas.
+5. Consultar la documentación centralizada en el repositorio privado [Astillero](https://github.com/astillero-espacial/astillero) para guías avanzadas y gestión de flotas.
+
+---
+
+## Contribuciones
+
+Este repositorio es mantenido por el equipo Nodriza. Para sugerencias, mejoras o reportes de errores, por favor contactanos a través de los canales internos o en el repositorio privado de gestión.
+
+---
+
+## Licencia
+
+Este repositorio está bajo licencia [MIT](LICENSE).
+
+---
+
+## Contacto
+
+Para más información y soporte, visitá el repositorio privado de documentación:  
+[https://github.com/astillero-espacial/astillero](https://github.com/astillero-espacial/astillero)
+
+---
+
+¡Gracias por formar parte de Nodriza Bots! 🚀
