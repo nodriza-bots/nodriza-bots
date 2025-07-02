@@ -37,11 +37,4 @@ Este repositorio está bajo licencia [MIT](LICENSE).
 
 ---
 
-## Contacto
-
-Para más información y soporte, visitá el repositorio privado de documentación:  
-[https://github.com/astillero-espacial/astillero](https://github.com/astillero-espacial/astillero)
-
----
-
 ¡Gracias por formar parte de Nodriza Bots! 🚀
