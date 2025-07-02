@@ -38,3 +38,5 @@ Este repositorio está bajo licencia [MIT](LICENSE).
 ---
 
 ¡Gracias por formar parte de Nodriza Bots! 🚀
+
+- VSC on the fly
